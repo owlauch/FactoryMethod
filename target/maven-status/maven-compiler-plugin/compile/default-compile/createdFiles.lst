@@ -1,0 +1,7 @@
+main\factorymethod\Conexao.class
+main\factorymethod\ConexaoOracle.class
+main\factorymethod\Main.class
+main\factorymethod\OracleConexaoFactory.class
+main\factorymethod\ConexaoFactory.class
+main\factorymethod\ConexaoMySql.class
+main\factorymethod\MySqlConexaoFactory.class
